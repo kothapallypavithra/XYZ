@@ -1,1 +1,1 @@
-# XYZ
+Alpaca image generator website
